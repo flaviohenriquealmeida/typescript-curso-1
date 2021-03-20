@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "outDir": "dist/js",
+        "target": "ES6"
+    },
+    "include": ["app/**/*"]
+}
