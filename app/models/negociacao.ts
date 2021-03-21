@@ -6,7 +6,7 @@ export class Negociacao {
     constructor(data: Date, quantidade: number, valor: number) {
         this._data = data;
         this._quantidade = quantidade;
-        this._valor = valor;
+        this._valor = valor; 
     }
 
     get data(): Date {
